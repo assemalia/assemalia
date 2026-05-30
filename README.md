@@ -33,15 +33,6 @@ I like combining **clean code**, **good UI/UX**, and **strong problem-solving** 
 
 ---
 
-## 🎯 Current Focus
-
-- Building professional and scalable software projects
-- Improving my skills in **Flutter**, **Kotlin**, and **backend architecture**
-- Exploring AI-powered applications and smart systems
-- Creating a strong technical profile and meaningful real-world projects
-
----
-
 ## 🧠 Tech Stack
 
 <div align="center">
@@ -59,7 +50,7 @@ I like combining **clean code**, **good UI/UX**, and **strong problem-solving** 
 <img src="https://skillicons.dev/icons?i=python,opencv,java,cpp,python" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,swagger,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 </div>
 
@@ -122,16 +113,6 @@ I like combining **clean code**, **good UI/UX**, and **strong problem-solving** 
 <a href="https://github.com/assemalia">
   <img src="https://img.shields.io/badge/GitHub-assemalia-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</div>
-
----
-
-## ✨ Personal Motto
-
-<div align="center">
-
-> **Build with purpose. Learn with passion. Grow without limits.**
 
 </div>
 
