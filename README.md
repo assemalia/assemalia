@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## ASSEM ALIA
 
 Hi, I'm **Assem Alia** — a passionate **Mobile Applications Developer** and a student in **AI & Data Science**.
 I graduated from **ENS/ENSET Skikda, Algeria**, and I am currently continuing my academic journey at **Echahid Hamma Lakhdar University of El Oued**.
@@ -56,10 +56,10 @@ I like combining **clean code**, **good UI/UX**, and **strong problem-solving** 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" />
 
 ### AI / Data / Programming
-<img src="https://skillicons.dev/icons?i=python,opencv,java,cpp,python,yolo" />
+<img src="https://skillicons.dev/icons?i=python,opencv,java,cpp,python" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,postman,Kaggle,overflow,swagger,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,swagger,figma" />
 
 </div>
 
