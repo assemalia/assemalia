@@ -132,24 +132,6 @@ A medical machine-learning system in three parts: a mobile app that collects sym
   </tr>
 </table>
 
-## GitHub activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/assemalia/assemalia/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/assemalia/assemalia/output/github-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/assemalia/assemalia/output/github-snake.svg" alt="Contribution graph animation" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=assemalia&theme=tokyonight&hide_border=true&background=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=assemalia&theme=default&hide_border=true&background=00000000" />
-  <img width="75%" src="https://streak-stats.demolab.com?user=assemalia&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</picture>
-
-</div>
-
 ## Let's connect
 
 <div align="center">
