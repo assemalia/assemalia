@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,25:1e293b,50:0ea5e9,75:2563eb,100:38bdf8&text=Assem%20Alia&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Systems%20Developer%20%E2%80%A2%20Mobile%20%E2%80%A2%20Web%20%E2%80%A2%20AI&descAlignY=56&descSize=17" alt="Assem Alia — Full-Stack Systems Developer" />
 
 <a href="https://assemalia.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Full-stack+systems+developer;Flutter+%E2%80%A2+Next.js+%E2%80%A2+Django+%E2%80%A2+FastAPI;Master's+student+in+AI+%26+Data+Science;From+Figma+prototype+to+production" alt="Full-stack systems developer · Flutter · Next.js · Django · FastAPI · AI & Data Science" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Full-stack+systems+developer;Flutter+%E2%80%A2+Next.js+%E2%80%A2+Django+%E2%80%A2+FastAPI;Master's+degree+in+AI+%26+Data+Science;From+Figma+prototype+to+production" alt="Full-stack systems developer · Flutter · Next.js · Django · FastAPI · AI & Data Science" />
 </a>
 
 <p>
@@ -18,8 +18,8 @@
 
 I'm **Assem Alia** (عاصم عليّة), a full-stack systems developer from Algeria. I build products end to end: Flutter mobile apps, Next.js and Django back-offices, and machine-learning models served in production.
 
-- 🎓 Master's student in **AI & Data Science** at Echahid Hamma Lakhdar University of El Oued, and a graduate of **ENSET Skikda**
-- 🔬 Current research: detecting diabetic retinopathy from fundus images with DenseNet
+- 🎓 **Master's degree in AI & Data Science** from Echahid Hamma Lakhdar University of El Oued, and a graduate of **ENSET Skikda**
+- 🔬 Master's research: detecting diabetic retinopathy from fundus images with DenseNet
 - 🧱 I care about clean architecture, bilingual RTL-first interfaces (Arabic / English), and systems that stay up
 - 🎨 Every system I build starts as a Figma prototype before the first line of code
 
